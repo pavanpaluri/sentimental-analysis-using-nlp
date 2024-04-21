@@ -1,2 +1,2 @@
-# email-spam-classifier-new
-End to end code for the email spam classifier project
+# sentimental analysis nlp data science new
+End to end code for the sentimental analysis using nlp project
